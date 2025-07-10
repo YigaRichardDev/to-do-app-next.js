@@ -1,8 +1,8 @@
 import {
   Dialog, DialogTitle, DialogContent, DialogActions,
   TextField, Button
-} from '@mui/material'
-import { useState } from 'react'
+} from '@mui/material';
+import { useState } from 'react';
 
 interface Props {
   open: boolean

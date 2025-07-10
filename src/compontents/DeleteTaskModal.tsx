@@ -1,7 +1,7 @@
 import {
   Dialog, DialogTitle, DialogContent,
   DialogActions, Button, Typography
-} from '@mui/material'
+} from '@mui/material';
 
 interface Props {
   open: boolean
